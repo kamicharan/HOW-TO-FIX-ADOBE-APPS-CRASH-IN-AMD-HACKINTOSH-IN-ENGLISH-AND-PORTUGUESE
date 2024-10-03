@@ -10,19 +10,19 @@
 
 - Step 1 - You need to go in (https://brew.sh) and copy the code line of installation that are specified in the printscream below:
  
- ![about-12 3 1] (https://github.com/user-attachments/assets/bd290a38-4efc-4820-af98-57ac5224c6ba)
+ ![about-12 3 1](https://github.com/user-attachments/assets/bd290a38-4efc-4820-af98-57ac5224c6ba)
 
 - Step 2 - You need to open your terminal (it's the cmd prompet for macos) and paste the code, press enter, put your password and wait.
 
- ![about-12 3 1] (https://github.com/user-attachments/assets/8091373b-24f2-40d0-a7bd-0af5336b9032)
+ ![about-12 3 1](https://github.com/user-attachments/assets/8091373b-24f2-40d0-a7bd-0af5336b9032)
 
 - Step 2.1 - You need to press enter again when he shows this messages and wait.
 
- ![about-12 3 1] (https://github.com/user-attachments/assets/eed8895e-b419-4c2c-ab06-6d834e510854)
+ ![about-12 3 1](https://github.com/user-attachments/assets/eed8895e-b419-4c2c-ab06-6d834e510854)
 
 - Step 2.2 - When it finishes the installation will it show the follow message:
 
- ![about-12 3 1] (https://github.com/user-attachments/assets/673b0b13-6ce4-4da6-81a4-4fa9c5f5a222)
+ ![about-12 3 1](https://github.com/user-attachments/assets/673b0b13-6ce4-4da6-81a4-4fa9c5f5a222)
 
 - Step 3 - Now in the same terminal window, copy the following command to install the required script and wait for the installation to be completed (it may take a while).
 
@@ -44,11 +44,11 @@
 
 	- Go into the application folder, then click in the left arrow beside the application icon that you wanted to fix, this will open another folder and what you gonna see it's exaclty like the example below:
 
-	![about-12 3 1] (https://github.com/user-attachments/assets/5298e2af-f5fb-47cc-a223-02a663485a99)
+	![about-12 3 1](https://github.com/user-attachments/assets/5298e2af-f5fb-47cc-a223-02a663485a99)
 
     - Now, drag this .app archive that you are selecting and put in the terminal that are already open with the parcial command already pasted. In this step, your terminal should be like this:
 
-  ![about-12 3 1] (https://github.com/user-attachments/assets/e0dc9694-5eb9-4073-aa3a-715a3bc2b779)
+  ![about-12 3 1](https://github.com/user-attachments/assets/e0dc9694-5eb9-4073-aa3a-715a3bc2b779)
 
  	- Now add the rest of the command below:
 
@@ -57,7 +57,7 @@
 
 	- After this, press enter, put your password, push enter again and just wait. At the end, your terminal has to be like this:
 
-	![about-12 3 1] (https://github.com/user-attachments/assets/459c3941-6637-4ac4-a0ca-71e7389f5e2c)
+	![about-12 3 1](https://github.com/user-attachments/assets/459c3941-6637-4ac4-a0ca-71e7389f5e2c)
 
 - Step 5.3 - The final step, now we are going to effective do the patch and fix the bug in the app that you have choosed. The only thing you need to do is change the command line, removing "--dry-run" and putting "--in-place --sign" in place. The rest of the command should stay the same as before!
 
@@ -65,7 +65,7 @@
 
 	- At the end, your terminal should be like this:
 
-	![about-12 3 1] (https://github.com/user-attachments/assets/30d77c51-1eb1-4dec-a52d-48cb0f22f248)
+	![about-12 3 1](https://github.com/user-attachments/assets/30d77c51-1eb1-4dec-a52d-48cb0f22f248)
 
 - Your adobe application should work fine right now! :)
 
