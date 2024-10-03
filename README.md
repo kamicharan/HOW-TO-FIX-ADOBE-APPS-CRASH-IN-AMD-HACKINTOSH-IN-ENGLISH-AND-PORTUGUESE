@@ -69,7 +69,7 @@
 
 - Your adobe application should work fine right now! 😁
 
-# Extra
+# ✅ Extra
 
  - We know things can change beyond time pass by, everytime the homebrew updates, the apps we have correct can maybe bug again, the only thing you need to do is go in the homebrew website again (https://brew.sh), copy the installation code, put in the terminal and press enter, it will recognize the older version already installed and will update it.
 
