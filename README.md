@@ -85,7 +85,7 @@
  - Sabemos que as coisas podem mudar com o passar do tempo, toda vez que o homebrew for atualizado, os aplicativos que nós corrigimos podem talvez falhar novamente, a única coisa que você precisa fazer caso isso ocorra é entrar no site oficial do homebrew (https://brew.sh), copiar o código de instalação, colar no terminal, apertar enter e aguardar. Ele irá reconhecer a versão anterior instalada e vai atualiza-la!
 
 ## ✅ Thanks/Credits
-- [Gabriel Luchina] From Universo Hackintosh and his video tutorial
+- [Gabriel Luchina] From Universo Hackintosh and his tutorial video
 - [Gabriel Cerqueira] From Universo Hackintosh 
 
 ## ✅ Discord - Universo Hackintosh
