@@ -1,5 +1,4 @@
-![terminal homebrew 1](https://github.com/user-attachments/assets/864a94b9-91c9-46aa-b3f6-85ed276f99bb)# Fixing the Adobe programs failure after open up! English and Portuguese!
-
+## Fixing the Adobe programs failure after open up! English and Portuguese!
 ![about-12 3 1] (https://github.com/user-attachments/assets/4930b730-3d47-4e05-b547-f019ae9965de)
 
 **Latest working macOS**: 15.0
