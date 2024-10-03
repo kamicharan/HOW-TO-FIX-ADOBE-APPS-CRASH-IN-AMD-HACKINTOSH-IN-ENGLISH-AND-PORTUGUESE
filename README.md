@@ -1,5 +1,6 @@
 ## Fixing the Adobe programs failure after open up! English and Portuguese!
-![about-12 3 1] (https://github.com/user-attachments/assets/4930b730-3d47-4e05-b547-f019ae9965de)
+
+![about-12 3 1](https://github.com/user-attachments/assets/4930b730-3d47-4e05-b547-f019ae9965de)
 
 **Latest working macOS**: 15.0
 <br>
