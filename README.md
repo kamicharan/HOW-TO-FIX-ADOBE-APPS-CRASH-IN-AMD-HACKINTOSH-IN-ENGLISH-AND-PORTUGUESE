@@ -1,4 +1,4 @@
-## Fixing the Adobe programs failure after open up! English and Portuguese!
+## Fixing the Adobe programs failure after open up on AMD based hackintoshes! English and Portuguese!
 
 ![about-12 3 1](https://github.com/user-attachments/assets/4930b730-3d47-4e05-b547-f019ae9965de)
 
